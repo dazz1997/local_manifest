@@ -5,9 +5,11 @@
            fetch="http://github.com/mevadadarshan19" />
 <remote  name="khirendra"
            fetch="https://github.com/khirendra03" />
-<remote name="salik"
+<remote  name="khirendra"
 
-		fetch="https://github.com/P-Salik" />
+           fetch="https://github.com/P-Salik" />
+
+
 <remote name="varun" 
            fetch="https://gitlab.com/GhostMaster69-dev" />
 
